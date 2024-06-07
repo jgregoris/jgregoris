@@ -4,10 +4,10 @@
 Soy un entusiasta de la programación y la inteligencia artificial, actualmente dando mis primeros pasos en este emocionante campo. Aunque soy nuevo en el mundo de la programación, tengo una sólida experiencia laboral en el ámbito de las telecomunicaciones. Mi pasión por la tecnología y el aprendizaje constante me ha llevado a embarcarme en esta nueva aventura. 🚀
 
 ## Experiencia en Telecomunicaciones 📡
-Durante mi carrera en telecomunicaciones, he adquirido habilidades valiosas en:
-- **Redes y Sistemas de Comunicación:** Configuración y mantenimiento de redes, soluciones de conectividad y optimización de sistemas. 🌐
-- **Gestión de Proyectos:** Liderar equipos y gestionar proyectos técnicos desde la planificación hasta la implementación. 📋
-- **Soporte Técnico:** Proporcionar soporte técnico de alto nivel, resolución de problemas y mantenimiento preventivo. 🛠️
+Tengo más de 10 años de experiencia en el sector de las telecomunicaciones, trabajando para empresas destacadas como lyntia, UFINET y Gas Natural Fenosa. Mi trayectoria incluye:
+- **Gestión de Redes de Transmisión:** PDH, SDH, DWDM, fibra oscura y Carrier Ethernet.
+- **Soporte Técnico y Gestión de Incidencias:** Resolución y tramitación de problemas en infraestructuras de comunicación.
+- **Coordinación de Proyectos:** Supervisión de proyectos técnicos y liderazgo de equipos.
 
 ## Mi Nueva Aventura en Programación e Inteligencia Artificial 💻🤖
 Estoy profundamente interesado en explorar y desarrollar mis habilidades en:

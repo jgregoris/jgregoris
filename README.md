@@ -21,4 +21,4 @@ La programación y la inteligencia artificial representan el futuro de la tecnol
 ## Conéctate Conmigo 🔗
 Estoy siempre abierto a conectar con otros profesionales y entusiastas de la tecnología. No dudes en seguirme y colaborar en proyectos interesantes.
 
-[LinkedIn](https://www.linkedin.com/in/jgregoris) | [Correo Electrónico](mailto:sunbay85@gmail.com)
+[LinkedIn](www.linkedin.com/in/javier-gregoris-cano-a6a94890) | [Correo Electrónico](mailto:sunbay85@gmail.com)
